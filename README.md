@@ -33,22 +33,26 @@ I build practical web systems with a focus on clean interfaces, backend logic, a
 
 ## Selected Work
 
-| Project | Focus |
-| --- | --- |
-| **MarketSync** | Market synchronization and B2B booking |
-| **Student Study Hub** | Student productivity and study support |
-| **Event Management System** | Event planning and coordination |
+<div>
+
+<p><strong>MarketSync</strong><br>Market synchronization and B2B booking</p>
+<p><strong>Student Study Hub</strong><br>Student productivity and study support</p>
+<p><strong>Event Management System</strong><br>Event planning and coordination</p>
+
+</div>
 
 ## Toolbox
 
-| Area | Stack |
-| --- | --- |
-| **Languages** | HTML, CSS, JavaScript, TypeScript, PHP, Java, Python, C++, SQL, Bash, JSON |
-| **Frontend** | React, Next.js, responsive design, component-based UI, state management |
-| **Backend** | Node.js, REST APIs, authentication, authorization, server-side logic, email workflows |
-| **Databases** | PostgreSQL, database design, schema modelling, query writing, indexing, normalization, migrations |
-| **Engineering** | API integration, role-based access control, validation, reporting, analytics, documentation |
-| **Tools** | Git, GitHub, Docker, Docker Compose, Linux command line basics, debugging, version control workflows |
+<div>
+
+<p><strong>Languages</strong><br>HTML, CSS, JavaScript, TypeScript, PHP, Java, Python, C++, SQL, Bash, JSON</p>
+<p><strong>Frontend</strong><br>React, Next.js, responsive design, component-based UI, state management</p>
+<p><strong>Backend</strong><br>Node.js, REST APIs, authentication, authorization, server-side logic, email workflows</p>
+<p><strong>Databases</strong><br>PostgreSQL, database design, schema modelling, query writing, indexing, normalization, migrations</p>
+<p><strong>Engineering</strong><br>API integration, role-based access control, validation, reporting, analytics, documentation</p>
+<p><strong>Tools</strong><br>Git, GitHub, Docker, Docker Compose, Linux command line basics, debugging, version control workflows</p>
+
+</div>
 
 ## What I Build Best
 
