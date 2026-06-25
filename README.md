@@ -12,8 +12,6 @@
 
 </div>
 
-<br>
-
 I build practical web systems with a focus on clean interfaces, backend logic, and useful data handling. I am pursuing a Bachelor of Business and Information Technology at Strathmore University and completed my KCSE at Alliance Girls High School. My work is geared toward real business workflows and internship-ready technical skills.
 
 ## Education
@@ -35,52 +33,22 @@ I build practical web systems with a focus on clean interfaces, backend logic, a
 
 ## Selected Work
 
-<div align="center">
-
 | Project | Focus |
 | --- | --- |
 | **MarketSync** | Market synchronization and B2B booking |
 | **Student Study Hub** | Student productivity and study support |
 | **Event Management System** | Event planning and coordination |
 
-</div>
-
 ## Toolbox
 
-<table>
-  <tr>
-    <td valign="top" width="50%">
-
-### Languages
-
-HTML, CSS, JavaScript, TypeScript, PHP, Java, Python, C++, SQL, Bash, JSON
-
-### Frontend
-
-React, Next.js, responsive design, component-based UI, state management
-
-### Backend
-
-Node.js, REST APIs, authentication, authorization, server-side logic, email workflows
-
-    </td>
-    <td valign="top" width="50%">
-
-### Databases
-
-PostgreSQL, database design, schema modelling, query writing, indexing, normalization, migrations
-
-### Engineering Practices
-
-API integration, role-based access control, validation, reporting, analytics, documentation
-
-### Tools
-
-Git, GitHub, Docker, Docker Compose, Linux command line basics, debugging, version control workflows
-
-    </td>
-  </tr>
-</table>
+| Area | Stack |
+| --- | --- |
+| **Languages** | HTML, CSS, JavaScript, TypeScript, PHP, Java, Python, C++, SQL, Bash, JSON |
+| **Frontend** | React, Next.js, responsive design, component-based UI, state management |
+| **Backend** | Node.js, REST APIs, authentication, authorization, server-side logic, email workflows |
+| **Databases** | PostgreSQL, database design, schema modelling, query writing, indexing, normalization, migrations |
+| **Engineering** | API integration, role-based access control, validation, reporting, analytics, documentation |
+| **Tools** | Git, GitHub, Docker, Docker Compose, Linux command line basics, debugging, version control workflows |
 
 ## What I Build Best
 
@@ -91,12 +59,8 @@ Git, GitHub, Docker, Docker Compose, Linux command line basics, debugging, versi
 
 ## GitHub Stats
 
-<div align="center">
-
 <img src="https://github-readme-stats.vercel.app/api?username=nginachris&show_icons=true&hide_border=true&rank_icon=github&title_color=0F766E&text_color=134E4A&icon_color=0F766E&bg_color=F4EBDD&border_color=E6D7C1" alt="GitHub stats" height="180" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nginachris&layout=compact&hide_border=true&title_color=0F766E&text_color=134E4A&bg_color=F4EBDD&border_color=E6D7C1" alt="Top languages" height="180" />
-
-</div>
 
 ## Contact
 
