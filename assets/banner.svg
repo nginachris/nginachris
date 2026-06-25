@@ -14,6 +14,11 @@
       <stop offset="0%" stop-color="#134E4A"/>
       <stop offset="100%" stop-color="#0F766E"/>
     </linearGradient>
+    <linearGradient id="lineFade" x1="180" y1="100" x2="1220" y2="380" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#0F766E" stop-opacity="0.12"/>
+      <stop offset="50%" stop-color="#10B981" stop-opacity="0.42"/>
+      <stop offset="100%" stop-color="#134E4A" stop-opacity="0.10"/>
+    </linearGradient>
     <filter id="blur" x="-20%" y="-20%" width="140%" height="140%">
       <feGaussianBlur stdDeviation="50"/>
     </filter>
@@ -28,29 +33,34 @@
   <path d="M0 375C170 320 255 420 420 375C585 330 660 230 815 256C970 282 1040 410 1200 364C1290 338 1350 308 1400 292V500H0V375Z" fill="url(#emerald)" opacity="0.14"/>
   <path d="M0 410C150 360 250 452 410 410C570 368 650 260 800 292C950 324 1030 448 1190 402C1290 372 1350 342 1400 324" stroke="url(#emerald)" stroke-width="3" opacity="0.38"/>
 
-  <rect x="72" y="70" width="1256" height="360" rx="30" fill="white" fill-opacity="0.16" stroke="#134E4A" stroke-opacity="0.14"/>
+  <path d="M115 350C245 315 330 345 430 322C555 293 650 215 765 236C880 257 960 340 1086 328C1168 320 1228 296 1290 284" stroke="url(#lineFade)" stroke-width="2.5" stroke-linecap="round"/>
+  <circle cx="430" cy="322" r="6" fill="#0F766E" fill-opacity="0.75"/>
+  <circle cx="765" cy="236" r="6" fill="#10B981" fill-opacity="0.75"/>
+  <circle cx="1086" cy="328" r="6" fill="#134E4A" fill-opacity="0.75"/>
 
-  <text x="120" y="168" fill="#134E4A" font-family="Cormorant Garamond, Georgia, serif" font-size="64" font-weight="700" letter-spacing="0.5">
+  <rect x="72" y="70" width="1256" height="360" rx="30" fill="white" fill-opacity="0.14" stroke="#134E4A" stroke-opacity="0.12"/>
+
+  <text x="120" y="165" fill="#134E4A" font-family="Palatino Linotype, Book Antiqua, Georgia, serif" font-size="66" font-weight="700" letter-spacing="0.35">
     Christine Ngina
   </text>
-  <text x="120" y="222" fill="url(#textAccent)" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="27" font-weight="600" letter-spacing="0.4">
+  <text x="120" y="220" fill="url(#textAccent)" font-family="Trebuchet MS, Verdana, sans-serif" font-size="26" font-weight="700" letter-spacing="0.45">
     BBIT student • Junior software developer
   </text>
-  <text x="120" y="270" fill="#3F4B46" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="21" font-weight="400">
+  <text x="120" y="268" fill="#3F4B46" font-family="Trebuchet MS, Verdana, sans-serif" font-size="21" font-weight="400">
     Building practical systems for business workflows, analytics, and real-world operations
   </text>
 
   <g>
-    <rect x="120" y="322" rx="18" width="176" height="44" fill="#0F766E" fill-opacity="0.10" stroke="#0F766E" stroke-opacity="0.18"/>
-    <text x="208" y="351" text-anchor="middle" fill="#134E4A" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="17" font-weight="600">Full-stack</text>
+    <rect x="120" y="320" rx="18" width="170" height="44" fill="#0F766E" fill-opacity="0.10" stroke="#0F766E" stroke-opacity="0.18"/>
+    <text x="205" y="349" text-anchor="middle" fill="#134E4A" font-family="Trebuchet MS, Verdana, sans-serif" font-size="17" font-weight="700">Full-stack</text>
 
-    <rect x="310" y="322" rx="18" width="176" height="44" fill="#0F766E" fill-opacity="0.10" stroke="#0F766E" stroke-opacity="0.18"/>
-    <text x="398" y="351" text-anchor="middle" fill="#134E4A" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="17" font-weight="600">Databases</text>
+    <rect x="306" y="320" rx="18" width="170" height="44" fill="#0F766E" fill-opacity="0.10" stroke="#0F766E" stroke-opacity="0.18"/>
+    <text x="391" y="349" text-anchor="middle" fill="#134E4A" font-family="Trebuchet MS, Verdana, sans-serif" font-size="17" font-weight="700">Databases</text>
 
-    <rect x="500" y="322" rx="18" width="216" height="44" fill="#0F766E" fill-opacity="0.10" stroke="#0F766E" stroke-opacity="0.18"/>
-    <text x="608" y="351" text-anchor="middle" fill="#134E4A" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="17" font-weight="600">Business systems</text>
+    <rect x="492" y="320" rx="18" width="222" height="44" fill="#0F766E" fill-opacity="0.10" stroke="#0F766E" stroke-opacity="0.18"/>
+    <text x="603" y="349" text-anchor="middle" fill="#134E4A" font-family="Trebuchet MS, Verdana, sans-serif" font-size="17" font-weight="700">Business systems</text>
 
-    <rect x="730" y="322" rx="18" width="166" height="44" fill="#0F766E" fill-opacity="0.10" stroke="#0F766E" stroke-opacity="0.18"/>
-    <text x="813" y="351" text-anchor="middle" fill="#134E4A" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="17" font-weight="600">Analytics</text>
+    <rect x="730" y="320" rx="18" width="164" height="44" fill="#0F766E" fill-opacity="0.10" stroke="#0F766E" stroke-opacity="0.18"/>
+    <text x="812" y="349" text-anchor="middle" fill="#134E4A" font-family="Trebuchet MS, Verdana, sans-serif" font-size="17" font-weight="700">Analytics</text>
   </g>
 </svg>
