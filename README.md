@@ -60,7 +60,7 @@ I build practical web systems with a focus on clean interfaces, backend logic, a
 ## GitHub Stats
 
 <img src="https://github-readme-stats.vercel.app/api?username=nginachris&show_icons=true&hide_border=true&rank_icon=github&title_color=0F766E&text_color=134E4A&icon_color=0F766E&bg_color=F4EBDD&border_color=E6D7C1" alt="GitHub stats" height="180" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nginachris&layout=compact&hide_border=true&title_color=0F766E&text_color=134E4A&bg_color=F4EBDD&border_color=E6D7C1" alt="Top languages" height="180" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nginachris&layout=compact&hide_border=true&title_color=0F766E&text_color=134E4A&bg_color=F4EBDD&border_color=E6D7C1&hide=html,css" alt="Top languages" height="180" />
 
 ## Contact
 
