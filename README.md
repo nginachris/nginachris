@@ -4,7 +4,7 @@
 
 # Christine Ngina
 
-**BBIT student | Junior software developer | Building software with business value**
+**Bachelor of Business and Information Technology student at Strathmore University | Junior software developer | Alliance Girls High School alumna**
 
 [![GitHub](https://img.shields.io/badge/GitHub-nginachris-181717?style=for-the-badge&logo=github)](https://github.com/nginachris)
 [![Email](https://img.shields.io/badge/Email-christyngumbu%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:christyngumbu@gmail.com)
@@ -14,11 +14,17 @@
 
 <br>
 
-I build practical web systems with a focus on clean interfaces, reliable backend logic, and useful data handling. My work is geared toward real business workflows and internship-ready technical skills.
+I build practical web systems with a focus on clean interfaces, backend logic, and useful data handling. I am pursuing a Bachelor of Business and Information Technology at Strathmore University and completed my KCSE at Alliance Girls High School. My work is geared toward real business workflows and internship-ready technical skills.
+
+## Education
+
+- Strathmore University - Bachelor of Business and Information Technology, 2024 - Present
+- Alliance Girls High School - KCSE, 2020 - 2023
 
 ## Current Focus
 
 - Full-stack web development
+- Backend systems and APIs
 - Database-driven systems
 - Business information systems
 - Dashboards, reporting, and workflow tools
@@ -47,7 +53,7 @@ I build practical web systems with a focus on clean interfaces, reliable backend
 
 ### Languages
 
-HTML, CSS, JavaScript, TypeScript, PHP, Java, C++, SQL, Bash, JSON
+HTML, CSS, JavaScript, TypeScript, PHP, Java, Python, C++, SQL, Bash, JSON
 
 ### Frontend
 
@@ -55,7 +61,7 @@ React, Next.js, responsive design, component-based UI, state management
 
 ### Backend
 
-Node.js, REST APIs, authentication, authorization, email workflows, server-side logic
+Node.js, REST APIs, authentication, authorization, server-side logic, email workflows
 
     </td>
     <td valign="top" width="50%">
@@ -82,6 +88,15 @@ Git, GitHub, Docker, Docker Compose, Linux command line basics, debugging, versi
 - Reporting dashboards
 - Approval and workflow tools
 - Database-backed web applications
+
+## GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=nginachris&show_icons=true&theme=merko&hide_border=true&rank_icon=github" alt="GitHub stats" height="180" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nginachris&layout=compact&theme=merko&hide_border=true" alt="Top languages" height="180" />
+
+</div>
 
 ## Contact
 
