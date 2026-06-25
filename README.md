@@ -33,23 +33,27 @@ I build practical web systems with a focus on clean interfaces, reliable backend
 
 ### Languages
 
-HTML, CSS, JavaScript, TypeScript, PHP, Java, C++, SQL
+HTML, CSS, JavaScript, TypeScript, PHP, Java, C++, SQL, Bash, JSON
 
 ### Frontend
 
-React, Next.js
+React, Next.js, responsive design, component-based UI, state management
 
 ### Backend
 
-Node.js, REST APIs, authentication, email workflows
+Node.js, REST APIs, authentication, authorization, email workflows, server-side logic
 
 ### Databases
 
-PostgreSQL, database design, schema modelling, query writing
+PostgreSQL, database design, schema modelling, query writing, indexing, normalization, migrations
 
 ### Tools
 
-Git, GitHub, Docker, Docker Compose, Linux command line basics
+Git, GitHub, Docker, Docker Compose, Linux command line basics, debugging, version control workflows
+
+### Concepts
+
+API integration, role-based access control, validation, reporting, analytics, documentation
 
 ## What I Build Best
 
