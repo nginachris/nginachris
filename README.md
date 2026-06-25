@@ -1,8 +1,10 @@
 <div align="center">
 
+<img src="assets/banner.svg" alt="Christine Ngina profile banner" width="100%" />
+
 # Christine Ngina
 
-**BBIT student | Full-stack developer | Building software with business value**
+**BBIT student | Junior software developer | Building software with business value**
 
 [![GitHub](https://img.shields.io/badge/GitHub-nginachris-181717?style=for-the-badge&logo=github)](https://github.com/nginachris)
 [![Email](https://img.shields.io/badge/Email-christyngumbu%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:christyngumbu@gmail.com)
@@ -10,9 +12,11 @@
 
 </div>
 
+<br>
+
 I build practical web systems with a focus on clean interfaces, reliable backend logic, and useful data handling. My work is geared toward real business workflows and internship-ready technical skills.
 
-## Focus
+## Current Focus
 
 - Full-stack web development
 - Database-driven systems
@@ -25,11 +29,21 @@ I build practical web systems with a focus on clean interfaces, reliable backend
 
 ## Selected Work
 
-- **MarketSync** - market synchronization and B2B booking platform
-- **Student Study Hub** - student productivity and study support project
-- **Event Management System** - event planning and coordination platform
+<div align="center">
 
-## Skills
+| Project | Focus |
+| --- | --- |
+| **MarketSync** | Market synchronization and B2B booking |
+| **Student Study Hub** | Student productivity and study support |
+| **Event Management System** | Event planning and coordination |
+
+</div>
+
+## Toolbox
+
+<table>
+  <tr>
+    <td valign="top" width="50%">
 
 ### Languages
 
@@ -43,17 +57,24 @@ React, Next.js, responsive design, component-based UI, state management
 
 Node.js, REST APIs, authentication, authorization, email workflows, server-side logic
 
+    </td>
+    <td valign="top" width="50%">
+
 ### Databases
 
 PostgreSQL, database design, schema modelling, query writing, indexing, normalization, migrations
+
+### Engineering Practices
+
+API integration, role-based access control, validation, reporting, analytics, documentation
 
 ### Tools
 
 Git, GitHub, Docker, Docker Compose, Linux command line basics, debugging, version control workflows
 
-### Concepts
-
-API integration, role-based access control, validation, reporting, analytics, documentation
+    </td>
+  </tr>
+</table>
 
 ## What I Build Best
 
